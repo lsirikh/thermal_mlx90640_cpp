@@ -1,0 +1,3 @@
+/home/sensorway/cpp_ws/thermal_mlx9064x/build/CMakeFiles/thermal_mlx9064x.dir
+/home/sensorway/cpp_ws/thermal_mlx9064x/build/CMakeFiles/edit_cache.dir
+/home/sensorway/cpp_ws/thermal_mlx9064x/build/CMakeFiles/rebuild_cache.dir
